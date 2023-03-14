@@ -10,7 +10,6 @@ pipeline {
                 }
             }
         }
-        }
     }
     post { 
         always { 
